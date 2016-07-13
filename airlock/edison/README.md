@@ -1,5 +1,7 @@
 # Airlock - Edison
 
+[Setup Intel Edison](https://software.intel.com/en-us/get-started-edison-osx)
+
 ## Installation
 
 ```
